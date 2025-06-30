@@ -3,7 +3,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="images/canvas-lattice-dark.png">
     <source media="(prefers-color-scheme: light)" srcset="images/canvas-lattice-light.png">
-    <img src="images/canvas-lattice-light.png" alt="Canvas-Lattice Engine Diagram" width="650" />
+    <img src="images/canvas-lattice-light.png" alt="Canvas-Lattice Engine Diagram" width="600" />
   </picture>
 <p align="center"><i>Sparks omnidirectional LLM insights for deeper thinking</i></p>
 </p>
