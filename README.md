@@ -1,11 +1,11 @@
-<p align="center">Featured Repo: Canvas-Lattice Engine</p>
+<p align="center"><b>Featured Repo</b>: <a href="https://github.com/5ynthaire/5YN-LLMAbstractReasoningLayer-Idea">Canvas-Lattice Engine</a></p>
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="images/canvas-lattice-dark.png">
     <source media="(prefers-color-scheme: light)" srcset="images/canvas-lattice-light.png">
-    <img src="images/canvas-lattice-light.png" alt="Canvas-Lattice Engine Diagram" width="400">
+    <img src="images/canvas-lattice-light.png" alt="Canvas-Lattice Engine Diagram" width="600">
   </picture>
-<p align="center">Sparks omnidirectional LLM insights.</p>
+<p align="center"><i>Sparks omnidirectional LLM insights for deeper thinking</i></p>
 </p>
 
 # 5ynthaire
