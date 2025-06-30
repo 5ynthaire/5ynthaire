@@ -1,3 +1,6 @@
+<p align="center"><img src="https://raw.githubusercontent.com/5ynthaire/5YN-LLMAbstractReasoningLayer-Idea/refs/heads/main/assets/diagram.jpg" alt="Canvas-Lattice Diagram" width="400"></p>
+<p align="center">Canvas-Lattice Engine: Sparks omnidirectional LLM insights.</p>
+
 # 5ynthaire
 
 ## LLM Behavioral Matrix Upgrades
