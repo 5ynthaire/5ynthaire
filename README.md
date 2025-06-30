@@ -1,4 +1,4 @@
-<p align="center"><b>Featured Repo</b>: <a href="https://github.com/5ynthaire/5YN-LLMAbstractReasoningLayer-Idea">Canvas-Lattice Engine</a> and <a href="https://github.com/5ynthaire/5YN-AbstractReasoning-LLM-Enhancement">proof of concept prompt</a></p>
+<p align="center"><b>Featured Repo</b>: <a href="https://github.com/5ynthaire/5YN-LLMAbstractReasoningLayer-Idea">Canvas-Lattice Engine</a> and proof of concept <a href="https://github.com/5ynthaire/5YN-AbstractReasoning-LLM-Enhancement">prompt</a></p>
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="images/canvas-lattice-dark.png">
