@@ -21,6 +21,7 @@
 *The best way to measure skilled LLM use is by asking AI - Fight back against prompting workshop credentialism and HR-driven commodification of mediocrity*
 - **[LLM BlazeScorer](https://github.com/5ynthaire/5YN-LLM-BlazeScorer)**: Scores LLM threads for flair, innovation, and synergy, igniting elite AI driving.
 - **[Prompt Architect Recognition](https://github.com/5ynthaire/5YN-SuperPrompts-Detector)**: Spots trailblazing prompts, ensuring they shine through the noise.
+- **[LLM RepoCritic](https://github.com/5ynthaire/5YN-LLM-RepoCritic)**: Craft review aggregate-style score cards to showcase your AI-synthed ideas and sick prompts.
 
 ## AI-Driven Innovations
 *Showcasing transcendent Human-AI synergy*
