@@ -38,5 +38,7 @@
 
 ## Miscellaneous
 *Odds and ends*
+- **[AI Degradation Test Suite](https://github.com/5ynthaire/5YN-AIDegradationTestSuite)**: Experimental attempt at baseline testing failing LLMs.
 - **[Wave File to CUE/Labels Splitter](https://github.com/5ynthaire/5YN-WAV2CUE-PY)**: Py for converting audio timestamps to tool-friendly formats.
 - **[AI Extension Icons](https://github.com/5ynthaire/ai-extension-icons)**: PNG icons; Original, Retro-AI, and Mono in 16/19/24/32/38/48/64/128.
+28.
