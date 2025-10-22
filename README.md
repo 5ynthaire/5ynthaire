@@ -16,7 +16,7 @@
 - **[FlowMode](https://github.com/5ynthaire/5YN-PMTaskMode-LLM-Enhancement)**: Harnesses project management-inspired listening modes to lock LLMs into precise, workflow-driven responses.
 - **[Tangram Decision Driver](https://github.com/5ynthaire/5YN-TangramDecisionDriver-LLM-Enhancement)**: Steers LLMs to actionable decisions, dodging endless hypothetical follow-ups.
 - **[Simplification Prompt](https://github.com/5ynthaire/5YN-IterationHellBreaker-LLM-Enhancement)**: Breaks LLM iteration hell, forcing reassessment when progress stalls.
-- **[Framework for AI Hallucination Control](https://github.com/5ynthaire/5YN-SemanticKernelLLMHallucinationControl-Idea)**: Framework & Prompt-level hack to counter AI hallucinations.
+- **[Framework for AI Hallucination Control](https://github.com/5ynthaire/5YN-InformationKernelLLMHallucinationControl-Idea)**: Framework & Prompt-level hack to counter AI hallucinations.
 
 ## LLM Skill Recognition
 *The best way to measure skilled LLM use is by asking AI - Fight back against prompting workshop credentialism and HR-driven commodification of mediocrity*
@@ -35,3 +35,8 @@
 *Simple LLM tricks*
 - **[Text Ingestion Prompt](https://github.com/5ynthaire/5YN-TextIngestion-Prompt)**: Isolates text to block LLM drift, keeping focus razor-tight.
 - **[Simple One Sentence Answer Prompt](https://github.com/5ynthaire/5YN-OneSentence-Prompt)**: Triggers one-sentence LLM replies with a magic word.
+
+## Miscellaneous
+*Odds and ends*
+- **[Wave File to CUE/Labels Splitter](https://github.com/5ynthaire/5YN-WAV2CUE-PY)**: Py for converting audio timestamps to tool-friendly formats.
+- **[AI Extension Icons](https://github.com/5ynthaire/ai-extension-icons)**: PNG icons; Original, Retro-AI, and Mono in 16/19/24/32/38/48/64/128.
