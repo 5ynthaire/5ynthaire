@@ -40,5 +40,6 @@
 *Odds and ends*
 - **[Extract Final Frames of Videos](https://github.com/5ynthaire/5YN-ExtractFinalVideoFrame-PY)**: Py for extracting the final frames of .mp4 videos to assist chaining AI video generations.
 - **[Wave File to CUE/Labels Splitter](https://github.com/5ynthaire/5YN-WAV2CUE-PY)**: Py for converting audio timestamps to tool-friendly formats.
+- **[Miura Fold Pattern SVG Generator](https://github.com/5ynthaire/5YN-MiuraFoldPatternGen-PY)**: Py for generating Miura fold crease patterns in SVG.
 - **[AI Degradation Test Suite](https://github.com/5ynthaire/5YN-AIDegradationTestSuite)**: Experimental attempt at baseline testing failing LLMs in long threads.
 - **[AI Extension Icons](https://github.com/5ynthaire/ai-extension-icons)**: PNG icons; Original, Retro-AI, and Mono in 16/19/24/32/38/48/64/128.
