@@ -34,6 +34,7 @@
 ## LLM Clarity and Drift Control
 *Simple LLM tricks*
 - **[Text Ingestion Prompt](https://github.com/5ynthaire/5YN-TextIngestion-Prompt)**: Isolates text to block LLM drift, keeping focus razor-tight.
+- **[Live Webpage Scan Precision Prompt](https://github.com/5ynthaire/5YN-LiveWebpageScanPrecision-Prompt)**: Forces direct, real-time retrieval of unaltered text from URLs with cross-verification, countering RAG-induced fuzziness.
 - **[Simple One Sentence Answer Prompt](https://github.com/5ynthaire/5YN-OneSentence-Prompt)**: Triggers one-sentence LLM replies with a magic word.
 
 ## Miscellaneous
