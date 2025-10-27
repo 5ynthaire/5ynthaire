@@ -38,7 +38,7 @@
 - **[Simple One Sentence Answer Prompt](https://github.com/5ynthaire/5YN-OneSentence-Prompt)**: Triggers one-sentence LLM replies with a magic word.
 
 ## Digital Design
-*Tools to unleash your creativity*
+*Tools and resources to unleash your creativity*
 - **[Extract Final Frames of Videos](https://github.com/5ynthaire/5YN-ExtractFinalVideoFrame-PY)**: Py for extracting the final frames of .mp4 videos to assist chaining AI video generations.
 - **[Miura Fold Pattern SVG Generator](https://github.com/5ynthaire/5YN-MiuraFoldPatternGen-PY)**: Py for generating Miura fold crease patterns in SVG.
 - **[Color Synth Lite](https://5ynthaire.github.io/5YN-ColorSynthLite-HTML/)**: Lightweight tool for fast, incremental, and iterative RGB hex color tweaks.
