@@ -17,7 +17,7 @@
 - **[FlowMode](https://github.com/5ynthaire/5YN-PMTaskMode-LLM-Enhancement)**: Harnesses project management-inspired listening modes to lock LLMs into precise, workflow-driven responses.
 - **[Tangram Decision Driver](https://github.com/5ynthaire/5YN-TangramDecisionDriver-LLM-Enhancement)**: Steers LLMs to actionable decisions, dodging endless hypothetical follow-ups.
 - **[Simplification Prompt](https://github.com/5ynthaire/5YN-IterationHellBreaker-LLM-Enhancement)**: Breaks LLM iteration hell, forcing reassessment when progress stalls.
-- **[LLM Humility Enforcer Prompt](https://github.com/5ynthaire/5YN-LLMHumilityEnforcer-Prompt)**: Prevent entrenched feedback cycles caused by LLM's premature closure, self-certification, and performative confidence.
+- **[Humility Enforcer Prompt](https://github.com/5ynthaire/5YN-LLMHumilityEnforcer-Prompt)**: Prevent entrenched feedback cycles caused by LLM's premature closure, self-certification, and performative confidence.
 
 
 ## LLM Skill Recognition
