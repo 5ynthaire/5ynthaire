@@ -13,10 +13,12 @@
 ## LLM Behavioral Matrix Upgrades
 *End-user LLM hacks to improve reasoning and meta-level conversation cognition, while we wait for industry to catch up*
 - **[Abstract Reasoning Prompt](https://github.com/5ynthaire/5YN-AbstractReasoning-LLM-Enhancement)**: Forces LLMs to wrestle paradoxes, spitting out sharp, creative insights.
+- **[Framework for AI Hallucination Control](https://github.com/5ynthaire/5YN-InformationKernelLLMHallucinationControl-Idea)**: Framework & Prompt-level hack to counter AI hallucinations.
 - **[FlowMode](https://github.com/5ynthaire/5YN-PMTaskMode-LLM-Enhancement)**: Harnesses project management-inspired listening modes to lock LLMs into precise, workflow-driven responses.
 - **[Tangram Decision Driver](https://github.com/5ynthaire/5YN-TangramDecisionDriver-LLM-Enhancement)**: Steers LLMs to actionable decisions, dodging endless hypothetical follow-ups.
 - **[Simplification Prompt](https://github.com/5ynthaire/5YN-IterationHellBreaker-LLM-Enhancement)**: Breaks LLM iteration hell, forcing reassessment when progress stalls.
-- **[Framework for AI Hallucination Control](https://github.com/5ynthaire/5YN-InformationKernelLLMHallucinationControl-Idea)**: Framework & Prompt-level hack to counter AI hallucinations.
+- **[LLM Humility Enforcer Prompt](https://github.com/5ynthaire/5YN-LLMHumilityEnforcer-Prompt)**: Prevent entrenched feedback cycles caused by LLM's premature closure, self-certification, and performative confidence.
+
 
 ## LLM Skill Recognition
 *The best way to measure skilled LLM use is by asking AI - Fight back against prompting workshop credentialism and HR-driven commodification of mediocrity*
