@@ -39,7 +39,7 @@
 - **[Live Webpage Precision Prompt](https://github.com/5ynthaire/5YN-LiveWebpageScanPrecision-Prompt)**: Forces retrieval of unaltered text from URLs with verification, countering RAG fuzziness.
 - **[Simple One Sentence Answer Prompt](https://github.com/5ynthaire/5YN-OneSentence-Prompt)**: Triggers one-sentence LLM replies with a magic word.
 
-## Digital Design
+## Digital Art & Design
 *Tools and resources to unleash your creativity*
 - **[Extract Final Frames of Videos](https://github.com/5ynthaire/5YN-ExtractFinalVideoFrame-PY)**: Py for extracting the final frames of .mp4 videos to assist chaining AI video generations.
 - **[Miura Fold Pattern SVG Generator](https://github.com/5ynthaire/5YN-MiuraFoldPatternGen-PY)**: Py for generating Miura fold crease patterns in SVG.
