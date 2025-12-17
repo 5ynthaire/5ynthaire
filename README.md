@@ -70,8 +70,6 @@
   </picture>
 <p align="center"><i>Generate custom Miura fold patterns</i></p>
 </p>
-<br />
-<br />
 
 ## Miscellaneous
 *Odds and ends*
