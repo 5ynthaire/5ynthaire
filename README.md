@@ -31,7 +31,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="images/RigidMalleableExpansionAndLazyCondensation_dark.png">
     <source media="(prefers-color-scheme: light)" srcset="images/RigidMalleableExpansionAndLazyCondensation_light.png">
-    <img src="images/RigidMalleableExpansionAndLazyCondensation_mono_light.png" alt="Information Kernel Diagram" />
+    <img src="images/RigidMalleableExpansionAndLazyCondensation_mono_light.png" alt="Information Kernel Diagram" width="700" />
   </picture>
 <p align="center"><i>Post-processing solution for hallucination control</i></p>
 </p>
