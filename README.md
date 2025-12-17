@@ -28,7 +28,7 @@
 
 <br />
 <br />
-<p align="center"><b>Featured Repo</b>:<a href="https://github.com/5ynthaire/5YN-InformationKernelLLMHallucinationControl-Idea">AI Hallucination Control Framework</a></p>
+<p align="center"><b>Featured Repo</b>:<a href="https://github.com/5ynthaire/5YN-InformationKernelLLMHallucinationControl-Idea">AI Hallucination Control Framework</a><a href="https://doi.org/10.5281/zenodo.17274202"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.17274202.svg" /></a></p>
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="images/RigidMalleableExpansionAndLazyCondensation_dark.png">
@@ -36,7 +36,6 @@
     <img src="images/RigidMalleableExpansionAndLazyCondensation_mono_light.png" alt="Information Kernel Diagram" width="600" />
   </picture>
 <p align="center"><i>Post-processing solution for hallucination control</i></p>
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17274202.svg)](https://doi.org/10.5281/zenodo.17274202)
 </p>
 <br />
 <br />
