@@ -18,6 +18,7 @@
 - **[Tangram Decision Driver](https://github.com/5ynthaire/5YN-TangramDecisionDriver-LLM-Enhancement)**: Steers LLMs to actionable decisions, dodging endless hypothetical follow-ups.
 - **[Simplification Prompt](https://github.com/5ynthaire/5YN-IterationHellBreaker-LLM-Enhancement)**: Breaks LLM iteration hell, forcing reassessment when progress stalls.
 - **[LLM Humility Enforcer Prompt](https://github.com/5ynthaire/5YN-LLMHumilityEnforcer-Prompt)**: Prevent entrenched feedback cycles caused by LLM's premature closure, self-certification, and performative confidence.
+- **[Mode B: Advisory-Only LLM Interaction](https://github.com/5ynthaire/5YN-AdvisoryOnlyLLMInteraction-Mode)**: Calibrate LLM responses for high-agency users, prioritizing rigorous analysis and executive control.
 
 
 ## LLM Skill Recognition
