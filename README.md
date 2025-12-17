@@ -12,9 +12,9 @@
 <b>Featured Repo</b>:<a href="https://github.com/5ynthaire/5YN-InformationKernelLLMHallucinationControl-Idea">Information Kernel Framework</a></p>
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="images/RigidMalleableExpansionAndLazyCondensation_mono_dark.png">
-    <source media="(prefers-color-scheme: light)" srcset="images/RigidMalleableExpansionAndLazyCondensation_mono_light.png">
-    <img src="images/images/RigidMalleableExpansionAndLazyCondensation_mono_light.png" alt="Information Kernel Diagram" width="600" />
+    <source media="(prefers-color-scheme: dark)" srcset="images/InksacpeSVG-InformationKernel2_mono_dark.png">
+    <source media="(prefers-color-scheme: light)" srcset="images/InksacpeSVG-InformationKernel2_mono_light.png">
+    <img src="images/InksacpeSVG-InformationKernel2_mono_light.png" alt="Information Kernel Diagram" width="600" />
   </picture>
 <p align="center"><i>Post-processing solution for hallucination control</i></p>
 
