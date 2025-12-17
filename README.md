@@ -26,7 +26,9 @@
 - **[Prompt Architect Recognition](https://github.com/5ynthaire/5YN-SuperPrompts-Detector)**: Spots trailblazing prompts, ensuring they shine through the noise.
 - **[LLM RepoCritic](https://github.com/5ynthaire/5YN-LLM-RepoCritic)**: Craft review aggregate-style score cards to showcase your AI-synthed ideas and sick prompts.
 
-<p align="center"><b>Featured Repo</b>:<a href="https://github.com/5ynthaire/5YN-InformationKernelLLMHallucinationControl-Idea">Information Kernel Framework</a></p>
+<br />
+<br />
+<p align="center"><b>Featured Repo</b>:<a href="https://github.com/5ynthaire/5YN-InformationKernelLLMHallucinationControl-Idea">AI Hallucination Control Framework</a></p>
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="images/RigidMalleableExpansionAndLazyCondensation_dark.png">
@@ -35,6 +37,8 @@
   </picture>
 <p align="center"><i>Post-processing solution for hallucination control</i></p>
 </p>
+<br />
+<br />
 
 ## AI-Driven Innovations
 *Showcasing transcendent Human-AI synergy*
