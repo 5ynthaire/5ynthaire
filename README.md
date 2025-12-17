@@ -1,4 +1,5 @@
-<p align="center"><b>Featured Repo</b>: <a href="https://github.com/5ynthaire/5YN-LLMAbstractReasoningLayer-Idea">Canvas-Lattice Engine</a> and proof of concept <a href="https://github.com/5ynthaire/5YN-AbstractReasoning-LLM-Enhancement">Abstract Reasoning Prompt</a></p>
+<p align="center">
+<b>Featured Repo</b>: <a href="https://github.com/5ynthaire/5YN-LLMAbstractReasoningLayer-Idea">Canvas-Lattice Engine</a> and proof of concept <a href="https://github.com/5ynthaire/5YN-AbstractReasoning-LLM-Enhancement">Abstract Reasoning Prompt</a></p>
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="images/canvas-lattice-dark.png">
@@ -6,6 +7,16 @@
     <img src="images/canvas-lattice-light.png" alt="Canvas-Lattice Engine Diagram" width="600" />
   </picture>
 <p align="center"><i>Sparks omnidirectional LLM insights for deeper thinking</i></p>
+
+<b>Featured Repo</b>: <a href="https://github.com/5ynthaire/5YN-InformationKernelLLMHallucinationControl-Idea">Information Kernel Framework</a></p>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="images/RigidMalleableExpansionAndLazyCondensation_dark.png">
+    <source media="(prefers-color-scheme: light)" srcset="images/RigidMalleableExpansionAndLazyCondensation_light.png">
+    <img src="images/images/RigidMalleableExpansionAndLazyCondensation_light.png" alt="Information Kernel Diagram" width="600" />
+  </picture>
+<p align="center"><i>Post-processing solution for hallucination control</i></p>
+
 </p>
 
 # 5ynthaire
