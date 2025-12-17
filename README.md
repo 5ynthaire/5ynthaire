@@ -59,6 +59,20 @@
 - **[Color Synth Lite](https://5ynthaire.github.io/5YN-ColorSynthLite-HTML/)**: Lightweight tool for fast, incremental, and iterative RGB hex color tweaks.
 - **[AI Extension Icons](https://github.com/5ynthaire/ai-extension-icons)**: PNG icons; Original, Retro-AI, and Mono in 16/19/24/32/38/48/64/128.
 
+<br />
+<br />
+<p align="center"><b>Featured Repo</b>:<a href="https://github.com/5ynthaire/5YN-MiuraFoldPatternGen-PY">Miura Fold Pattern SVG Generator</a></p>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="images/miura_dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="images/miura_light.svg">
+    <img src="images/miura_light.svg" alt="Miura Fold Pattern" width="600" />
+  </picture>
+<p align="center"><i>Generate custom Miura fold patterns</i></p>
+</p>
+<br />
+<br />
+
 ## Miscellaneous
 *Odds and ends*
 - **[Wave File to CUE/Labels Splitter](https://github.com/5ynthaire/5YN-WAV2CUE-PY)**: Py for converting audio timestamps to tool-friendly formats.
