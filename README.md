@@ -9,10 +9,6 @@
 <p align="center"><i>Sparks omnidirectional LLM insights for deeper thinking</i></p>
 </p>
 
----
-
-# 5ynthaire
-
 ## LLM Behavioral Matrix Upgrades
 *End-user LLM hacks to improve reasoning and meta-level conversation cognition, while we wait for industry to catch up*
 - **[Abstract Reasoning Prompt](https://github.com/5ynthaire/5YN-AbstractReasoning-LLM-Enhancement)**: Forces LLMs to wrestle paradoxes, spitting out sharp, creative insights.
@@ -30,8 +26,6 @@
 - **[Prompt Architect Recognition](https://github.com/5ynthaire/5YN-SuperPrompts-Detector)**: Spots trailblazing prompts, ensuring they shine through the noise.
 - **[LLM RepoCritic](https://github.com/5ynthaire/5YN-LLM-RepoCritic)**: Craft review aggregate-style score cards to showcase your AI-synthed ideas and sick prompts.
 
----
-
 <p align="center"><b>Featured Repo</b>:<a href="https://github.com/5ynthaire/5YN-InformationKernelLLMHallucinationControl-Idea">Information Kernel Framework</a></p>
 <p align="center">
   <picture>
@@ -41,8 +35,6 @@
   </picture>
 <p align="center"><i>Post-processing solution for hallucination control</i></p>
 </p>
-
----
 
 ## AI-Driven Innovations
 *Showcasing transcendent Human-AI synergy*
