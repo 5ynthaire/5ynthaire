@@ -36,6 +36,7 @@
     <img src="images/RigidMalleableExpansionAndLazyCondensation_mono_light.png" alt="Information Kernel Diagram" width="600" />
   </picture>
 <p align="center"><i>Post-processing solution for hallucination control</i></p>
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17274202.svg)](https://doi.org/10.5281/zenodo.17274202)
 </p>
 <br />
 <br />
