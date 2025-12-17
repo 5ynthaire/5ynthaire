@@ -1,5 +1,5 @@
-<p align="center">
-<b>Featured Repo</b>: <a href="https://github.com/5ynthaire/5YN-LLMAbstractReasoningLayer-Idea">Canvas-Lattice Engine</a> and proof of concept <a href="https://github.com/5ynthaire/5YN-AbstractReasoning-LLM-Enhancement">Abstract Reasoning Prompt</a></p>
+<p align="center"><b>Featured Repo</b>: <a href="https://github.com/5ynthaire/5YN-LLMAbstractReasoningLayer-Idea">Canvas-Lattice Engine</a> and proof of concept <a href="https://github.com/5ynthaire/5YN-AbstractReasoning-LLM-Enhancement">Abstract Reasoning Prompt</a></p>
+
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="images/canvas-lattice-dark.png">
@@ -7,17 +7,6 @@
     <img src="images/canvas-lattice-light.png" alt="Canvas-Lattice Engine Diagram" width="600" />
   </picture>
 <p align="center"><i>Sparks omnidirectional LLM insights for deeper thinking</i></p>
-
-<p align="center">
-<b>Featured Repo</b>:<a href="https://github.com/5ynthaire/5YN-InformationKernelLLMHallucinationControl-Idea">Information Kernel Framework</a></p>
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="images/RigidMalleableExpansionAndLazyCondensation_dark.png">
-    <source media="(prefers-color-scheme: light)" srcset="images/RigidMalleableExpansionAndLazyCondensation_light.png">
-    <img src="images/RigidMalleableExpansionAndLazyCondensation_mono_light.png" alt="Information Kernel Diagram" width="600" />
-  </picture>
-<p align="center"><i>Post-processing solution for hallucination control</i></p>
-
 </p>
 
 # 5ynthaire
@@ -38,6 +27,16 @@
 - **[LLM BlazeScorer](https://github.com/5ynthaire/5YN-LLM-BlazeScorer)**: Scores LLM threads for flair, innovation, and synergy, igniting elite AI driving.
 - **[Prompt Architect Recognition](https://github.com/5ynthaire/5YN-SuperPrompts-Detector)**: Spots trailblazing prompts, ensuring they shine through the noise.
 - **[LLM RepoCritic](https://github.com/5ynthaire/5YN-LLM-RepoCritic)**: Craft review aggregate-style score cards to showcase your AI-synthed ideas and sick prompts.
+
+<p align="center"><b>Featured Repo</b>:<a href="https://github.com/5ynthaire/5YN-InformationKernelLLMHallucinationControl-Idea">Information Kernel Framework</a></p>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="images/RigidMalleableExpansionAndLazyCondensation_dark.png">
+    <source media="(prefers-color-scheme: light)" srcset="images/RigidMalleableExpansionAndLazyCondensation_light.png">
+    <img src="images/RigidMalleableExpansionAndLazyCondensation_mono_light.png" alt="Information Kernel Diagram" width="600" />
+  </picture>
+<p align="center"><i>Post-processing solution for hallucination control</i></p>
+</p>
 
 ## AI-Driven Innovations
 *Showcasing transcendent Human-AI synergy*
