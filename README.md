@@ -28,7 +28,7 @@
 
 <br />
 <br />
-<p align="center"><b>Featured Repo</b>:<a href="https://github.com/5ynthaire/5YN-InformationKernelLLMHallucinationControl-Idea">AI Hallucination Control Framework</a><a href="https://doi.org/10.5281/zenodo.17274202"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.17274202.svg" /></a></p>
+<p align="center"><b>Featured Repo</b>:<a href="https://github.com/5ynthaire/5YN-InformationKernelLLMHallucinationControl-Idea">AI Hallucination Control Framework</a><a href="https://doi.org/10.5281/zenodo.17274202"><br /><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.17274202.svg" /></a></p>
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="images/RigidMalleableExpansionAndLazyCondensation_dark.png">
