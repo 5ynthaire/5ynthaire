@@ -8,7 +8,8 @@
   </picture>
 <p align="center"><i>Sparks omnidirectional LLM insights for deeper thinking</i></p>
 
-<b>Featured Repo</b>: <a href="https://github.com/5ynthaire/5YN-InformationKernelLLMHallucinationControl-Idea">Information Kernel Framework</a></p>
+<p align="center">
+<b>Featured Repo</b>:<a href="https://github.com/5ynthaire/5YN-InformationKernelLLMHallucinationControl-Idea">Information Kernel Framework</a></p>
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="images/RigidMalleableExpansionAndLazyCondensation_dark.png">
