@@ -51,15 +51,17 @@
 - **[Live Webpage Precision Prompt](https://github.com/5ynthaire/5YN-LiveWebpageScanPrecision-Prompt)**: Forces retrieval of unaltered text from URLs with verification, countering RAG fuzziness.
 - **[Simple One Sentence Answer Prompt](https://github.com/5ynthaire/5YN-OneSentence-Prompt)**: Triggers one-sentence LLM replies with a magic word.
 
+
 ## Digital Art & Design
 *Tools and resources to unleash your creativity*
+
 
 <p align="center"><b>Featured Repo</b>: <a href="https://github.com/5ynthaire/5YN-MiuraFoldPatternGen-PY">Miura Fold Pattern SVG Generator</a></p>
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="images/miura_dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="images/miura_light.svg">
-    <img src="images/miura_light.svg" alt="Miura Fold Pattern" width="600" />
+    <img src="images/miura_light.svg" alt="Miura Fold Pattern" width="580" />
   </picture>
 <p align="center"><i>Generate custom Miura fold patterns</i></p>
 </p>
