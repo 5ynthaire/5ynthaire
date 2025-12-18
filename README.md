@@ -61,7 +61,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="images/miura_dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="images/miura_light.svg">
-    <img src="images/miura_light.svg" alt="Miura Fold Pattern" width="580" />
+    <img src="images/miura_light.svg" alt="Miura Fold Pattern" width="560" />
   </picture>
 <p align="center"><i>Generate custom Miura fold patterns</i></p>
 </p>
