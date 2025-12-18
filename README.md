@@ -26,7 +26,7 @@
 - **[LLM RepoCritic](https://github.com/5ynthaire/5YN-LLM-RepoCritic)**: Craft review aggregate-style score cards to showcase your AI-synthed ideas and sick prompts.
 
 <br />
-<p align="center"><b>Featured Repo</b>:<a href="https://github.com/5ynthaire/5YN-InformationKernelLLMHallucinationControl-Idea">AI Hallucination Control Framework</a><br /><a href="https://doi.org/10.5281/zenodo.17274202" target="_blank"><img src="images/zenodo.17274202.svg" /></a></p>
+<p align="center"><b>Featured Repo</b>: <a href="https://github.com/5ynthaire/5YN-InformationKernelLLMHallucinationControl-Idea">AI Hallucination Control Framework</a><br /><a href="https://doi.org/10.5281/zenodo.17274202" target="_blank"><img src="images/zenodo.17274202.svg" /></a></p>
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="images/RigidMalleableExpansionAndLazyCondensation_dark.png">
@@ -60,7 +60,7 @@
 
 <br />
 <br />
-<p align="center"><b>Featured Repo</b>:<a href="https://github.com/5ynthaire/5YN-MiuraFoldPatternGen-PY">Miura Fold Pattern SVG Generator</a></p>
+<p align="center"><b>Featured Repo</b>: <a href="https://github.com/5ynthaire/5YN-MiuraFoldPatternGen-PY">Miura Fold Pattern SVG Generator</a></p>
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="images/miura_dark.svg">
