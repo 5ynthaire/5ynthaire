@@ -35,7 +35,6 @@
   </picture>
 <p align="center"><i>Post-processing solution for AI hallucination control</i></p>
 </p>
-<br />
 
 ## AI-Driven Innovations
 *Showcasing transcendent Human-AI synergy*
