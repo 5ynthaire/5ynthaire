@@ -5,8 +5,31 @@
    viewBox="0 0 1023.4295 693.21078"
    version="1.1"
    id="svg52"
+   sodipodi:docname="miura_light.svg"
+   inkscape:version="1.4 (86a8ad7, 2024-10-11)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#111111"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="1.1901142"
+     inkscape:cx="511.71559"
+     inkscape:cy="346.60539"
+     inkscape:window-width="1920"
+     inkscape:window-height="1027"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg52" />
   <defs
      id="defs52" />
   <line
@@ -53,7 +76,7 @@
      stroke="#FF0000"
      stroke-width="0.25"
      id="line10"
-     style="stroke:#000000;stroke-width:2.83465;stroke-dasharray:2.83465, 8.50394;stroke-dashoffset:0;stroke-opacity:1" />
+     style="stroke:#000000;stroke-width:1.88976387;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
   <line
      x1="681.8139"
      y1="395.13599"
