@@ -33,7 +33,7 @@
     <source media="(prefers-color-scheme: light)" srcset="images/RigidMalleableExpansionAndLazyCondensation_light.png">
     <img src="images/RigidMalleableExpansionAndLazyCondensation_mono_light.png" alt="Information Kernel Diagram" width="700" />
   </picture>
-<p align="center"><i>Post-processing solution for hallucination control</i></p>
+<p align="center"><i>Post-processing solution for AI hallucination control</i></p>
 </p>
 <br />
 
@@ -51,14 +51,6 @@
 - **[Live Webpage Precision Prompt](https://github.com/5ynthaire/5YN-LiveWebpageScanPrecision-Prompt)**: Forces retrieval of unaltered text from URLs with verification, countering RAG fuzziness.
 - **[Simple One Sentence Answer Prompt](https://github.com/5ynthaire/5YN-OneSentence-Prompt)**: Triggers one-sentence LLM replies with a magic word.
 
-## Digital Art & Design
-*Tools and resources to unleash your creativity*
-- **[Extract Final Frames of Videos](https://github.com/5ynthaire/5YN-ExtractFinalVideoFrame-PY)**: Py for extracting the final frames of .mp4 videos to assist chaining AI video generations.
-- **[Miura Fold Pattern SVG Generator](https://github.com/5ynthaire/5YN-MiuraFoldPatternGen-PY)**: Py for generating Miura fold crease patterns in SVG.
-- **[Color Synth Lite](https://5ynthaire.github.io/5YN-ColorSynthLite-HTML/)**: Lightweight tool for fast, incremental, and iterative RGB hex color tweaks.
-- **[AI Extension Icons](https://github.com/5ynthaire/ai-extension-icons)**: PNG icons; Original, Retro-AI, and Mono in 16/19/24/32/38/48/64/128.
-
-<br />
 <br />
 <p align="center"><b>Featured Repo</b>: <a href="https://github.com/5ynthaire/5YN-MiuraFoldPatternGen-PY">Miura Fold Pattern SVG Generator</a></p>
 <p align="center">
@@ -69,6 +61,14 @@
   </picture>
 <p align="center"><i>Generate custom Miura fold patterns</i></p>
 </p>
+
+## Digital Art & Design
+*Tools and resources to unleash your creativity*
+- **[Extract Final Frames of Videos](https://github.com/5ynthaire/5YN-ExtractFinalVideoFrame-PY)**: Py for extracting the final frames of .mp4 videos to assist chaining AI video generations.
+- **[Miura Fold Pattern SVG Generator](https://github.com/5ynthaire/5YN-MiuraFoldPatternGen-PY)**: Py for generating Miura fold crease patterns in SVG.
+- **[Color Synth Lite](https://5ynthaire.github.io/5YN-ColorSynthLite-HTML/)**: Lightweight tool for fast, incremental, and iterative RGB hex color tweaks.
+- **[AI Extension Icons](https://github.com/5ynthaire/ai-extension-icons)**: PNG icons; Original, Retro-AI, and Mono in 16/19/24/32/38/48/64/128.
+
 
 ## Miscellaneous
 *Odds and ends*
