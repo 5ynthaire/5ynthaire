@@ -74,4 +74,5 @@
 ## Miscellaneous
 *Odds and ends*
 - **[Wave File to CUE/Labels Splitter](https://github.com/5ynthaire/5YN-WAV2CUE-PY)**: Py for converting audio timestamps to tool-friendly formats.
+- **[Unicode Emoji Dumper](https://github.com/5ynthaire/5YN-UnicodeEmojiDumper-PY)**: Py for dumping Unicode UTF-8 blocks to text for emoji testing and palette use.
 - **[AI Degradation Test Suite](https://github.com/5ynthaire/5YN-AIDegradationTestSuite)**: Experimental attempt at baseline testing failing LLMs in long threads.
