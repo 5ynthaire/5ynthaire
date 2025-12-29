@@ -44,6 +44,7 @@
 - **[Tangram Decision Making Model](https://github.com/5ynthaire/5YN-TangramDecisionMakingModel-Idea)**: Model pinpoints shift from productive decisions to meandering hypotheticals.
 
 ## Narrative Frameworks
+*For rhetorical shenanigans with LLM and IRL*
 - **[Performative Complexity Killer](https://github.com/5ynthaire/5YN-PerformativeComplexity-Killer)**: Rhetorical tookit for exposing and refuting claims that 'nuance' excuses evading models, stats, or core insights.
 
 
