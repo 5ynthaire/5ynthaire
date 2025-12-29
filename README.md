@@ -42,7 +42,10 @@
 - **[Canvas-Lattice Engine](https://github.com/5ynthaire/5YN-LLMAbstractReasoningLayer-Idea)**: LLM design sparks omnidirectional insights for deeper thinking.
 - **[Neural Heuristic Quantification](https://github.com/5ynthaire/5YN-NeuralHeuristicQuantification-Idea)**: Quantifies abstract concepts via LLM neural nets, opening new AI frontiers.
 - **[Tangram Decision Making Model](https://github.com/5ynthaire/5YN-TangramDecisionMakingModel-Idea)**: Model pinpoints shift from productive decisions to meandering hypotheticals.
+
+## Narrative Frameworks
 - **[Performative Complexity Killer](https://github.com/5ynthaire/5YN-PerformativeComplexity-Killer)**: Rhetorical tookit for exposing and refuting claims that 'nuance' excuses evading models, stats, or core insights.
+
 
 ## LLM Clarity and Drift Control
 *Simple LLM tricks*
@@ -53,6 +56,7 @@
 
 ## Digital Art & Design
 *Tools and resources to unleash your creativity*
+- **[Design Portfolio](https://5ynthaire.github.io/5YN-DigitalDesignPortfolio/)**: Art gallery (Free Admission).
 
 
 <p align="center"><b>Featured Repo</b>: <a href="https://github.com/5ynthaire/5YN-MiuraFoldPatternGen-PY">Miura Fold Pattern SVG Generator</a></p>
