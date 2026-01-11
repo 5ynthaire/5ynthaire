@@ -58,7 +58,7 @@
 ## Digital Art & Design
 *Tools and resources to unleash your creativity*
 
-<p align="center"><b>5ynthaire Digital Art Gallery</b> · <small>Free Admission</small><br /><a href="https://5ynthaire.github.io/5YN-DigitalDesignPortfolio/">View Full Portfolio →</a></p>
+<p align="center"><b>5ynthaire Digital Art Gallery</b><br /><a href="https://5ynthaire.github.io/5YN-DigitalDesignPortfolio/">View Full Portfolio →</a></p>
 <p align="center"><b>Featured Art</b>: </p>
 <p align="center">
   <picture>
