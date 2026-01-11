@@ -67,7 +67,7 @@
     <img src="images/miura_light.svg" alt="Miura Fold Pattern" width="560" />
   </picture>
 <p align="center">Miura Fold Output Example, per <a href="https://github.com/5ynthaire/5YN-MiuraFoldPatternGen-PY">Py script/Binary Repo</a></p>
-</p>
+</p><br />
 
 - **[Extract Final Frames of Videos](https://github.com/5ynthaire/5YN-ExtractFinalVideoFrame-PY)**: Py for extracting the final frames of .mp4 videos to assist chaining AI video generations.
 - **[Miura Fold Pattern SVG Generator](https://github.com/5ynthaire/5YN-MiuraFoldPatternGen-PY)**: Py for generating Miura fold crease patterns in SVG.
