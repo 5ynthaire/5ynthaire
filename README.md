@@ -58,15 +58,15 @@
 ## Digital Art & Design
 *Tools and resources to unleash your creativity*
 
-<p align="center"><b>Synthaire Gallery</b> · <small>Free Admission</small><br />
-<a href="https://5ynthaire.github.io/5YN-DigitalDesignPortfolio/">View Full Portfolio →</a></p>
+<p align="center"><h4>5ynthaire Digital Art Gallery</h4> · <small>Free Admission</small><br /><a href="https://5ynthaire.github.io/5YN-DigitalDesignPortfolio/">View Full Portfolio →</a></p>
+<p align="center"><b>Featured Art</b>: </p>
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="images/miura_dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="images/miura_light.svg">
     <img src="images/miura_light.svg" alt="Miura Fold Pattern" width="560" />
   </picture>
-<p align="center"><i>Generate custom Miura fold patterns</i></p>
+<p align="center">Miura Fold Output Example, per <a href="https://github.com/5ynthaire/5YN-MiuraFoldPatternGen-PY">Py script/Binary Repo</a></p>
 </p>
 
 - **[Extract Final Frames of Videos](https://github.com/5ynthaire/5YN-ExtractFinalVideoFrame-PY)**: Py for extracting the final frames of .mp4 videos to assist chaining AI video generations.
