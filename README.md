@@ -57,10 +57,9 @@
 
 ## Digital Art & Design
 *Tools and resources to unleash your creativity*
-- **[Design Portfolio](https://5ynthaire.github.io/5YN-DigitalDesignPortfolio/)**: Art gallery (Free Admission).
 
-
-<p align="center"><b>Featured Repo</b>: <a href="https://github.com/5ynthaire/5YN-MiuraFoldPatternGen-PY">Miura Fold Pattern SVG Generator</a></p>
+<p align="center"><b>Synthaire Gallery</b> · <small>Free Admission</small><br />
+<a href="https://5ynthaire.github.io/5YN-DigitalDesignPortfolio/">View Full Portfolio →</a></p>
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="images/miura_dark.svg">
