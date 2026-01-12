@@ -73,6 +73,7 @@
 - **[Miura Fold Pattern SVG Generator](https://github.com/5ynthaire/5YN-MiuraFoldPatternGen-PY)**: Py for generating Miura fold crease patterns in SVG.
 - **[Color Synth Lite](https://5ynthaire.github.io/5YN-ColorSynthLite-HTML/)**: Lightweight tool for fast, incremental, and iterative RGB hex color tweaks.
 - **[AI Extension Icons](https://github.com/5ynthaire/ai-extension-icons)**: PNG icons; Original, Retro-AI, and Mono in 16/19/24/32/38/48/64/128.
+- **[Grok Imagine Accessibility Extension](https://github.com/5ynthaire/grok-imagine-keybind-accessibility-extension)**: Binds keys to common actions on platform for accessibility.
 
 
 ## Miscellaneous
