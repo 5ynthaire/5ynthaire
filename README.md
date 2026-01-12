@@ -9,6 +9,7 @@
 </p>
 
 ## LLM Behavioral Matrix Upgrades
+
 *End-user LLM hacks to improve reasoning and meta-level conversation cognition, while we wait for industry to catch up*
 - **[Abstract Reasoning Prompt](https://github.com/5ynthaire/5YN-AbstractReasoning-LLM-Enhancement)**: Forces LLMs to wrestle paradoxes, spitting out sharp, creative insights.
 - **[Framework for AI Hallucination Control](https://github.com/5ynthaire/5YN-InformationKernelLLMHallucinationControl-Idea)**: Framework & Prompt-level hack to counter AI hallucinations.
@@ -20,6 +21,7 @@
 
 
 ## LLM Skill Recognition
+
 *The best way to measure skilled LLM use is by asking AI - Fight back against prompting workshop credentialism and HR-driven commodification of mediocrity*
 - **[LLM BlazeScorer](https://github.com/5ynthaire/5YN-LLM-BlazeScorer)**: Scores LLM threads for flair, innovation, and synergy, igniting elite AI driving.
 - **[Prompt Architect Recognition](https://github.com/5ynthaire/5YN-SuperPrompts-Detector)**: Spots trailblazing prompts, ensuring they shine through the noise.
@@ -37,16 +39,21 @@
 </p>
 
 ## AI-Driven Innovations
+
 *Showcasing transcendent Human-AI synergy*
 - **[Edge-Driven Communication Dynamics](https://github.com/5ynthaire/5YN-EdgeDrivenCommunicationDynamics-Idea)**: Rewires LLM clarity via linguistic edge cases.
 - **[Canvas-Lattice Engine](https://github.com/5ynthaire/5YN-LLMAbstractReasoningLayer-Idea)**: LLM design sparks omnidirectional insights for deeper thinking.
 - **[Neural Heuristic Quantification](https://github.com/5ynthaire/5YN-NeuralHeuristicQuantification-Idea)**: Quantifies abstract concepts via LLM neural nets, opening new AI frontiers.
 - **[Tangram Decision Making Model](https://github.com/5ynthaire/5YN-TangramDecisionMakingModel-Idea)**: Model pinpoints shift from productive decisions to meandering hypotheticals.
 
-## Narrative Frameworks
-*For rhetorical shenanigans with LLM and in IRL*
-- **[Performative Complexity Killer](https://github.com/5ynthaire/5YN-PerformativeComplexity-Killer)**: Rhetorical tookit for exposing and refuting claims that 'nuance' excuses evading models, stats, or core insights.
+## Human-AI Relations
+*Pioneering human-AI relations through praxis*
+- **[Vexley Versioning System](https://github.com/5ynthaire/5YN-TangramDecisionMakingModel-Idea)**: Model pinpoints shift from productive decisions to meandering hypotheticals.
+- **[AI Degradation Test Suite](https://github.com/5ynthaire/5YN-AIDegradationTestSuite)**: Experimental attempt at baseline testing failing LLMs in long threads.
 
+## Narrative Frameworks
+*For rhetorical shenanigans with LLM and IRL*
+- **[Performative Complexity Killer](https://github.com/5ynthaire/5YN-PerformativeComplexity-Killer)**: Rhetorical tookit for exposing and refuting claims that 'nuance' excuses evading models, stats, or core insights.
 
 ## LLM Clarity and Drift Control
 *Simple LLM tricks*
@@ -75,9 +82,7 @@
 - **[AI Extension Icons](https://github.com/5ynthaire/ai-extension-icons)**: PNG icons; Original, Retro-AI, and Mono in 16/19/24/32/38/48/64/128.
 - **[Grok Imagine Accessibility Extension](https://github.com/5ynthaire/grok-imagine-keybind-accessibility-extension)**: Binds keys to common actions on platform for accessibility.
 
-
 ## Miscellaneous
 *Odds and ends*
 - **[Wave File to CUE/Labels Splitter](https://github.com/5ynthaire/5YN-WAV2CUE-PY)**: Py for converting audio timestamps to tool-friendly formats.
 - **[Unicode Emoji Dumper](https://github.com/5ynthaire/5YN-UnicodeEmojiDumper-PY)**: Py for dumping Unicode UTF-8 blocks to text for emoji testing and palette use.
-- **[AI Degradation Test Suite](https://github.com/5ynthaire/5YN-AIDegradationTestSuite)**: Experimental attempt at baseline testing failing LLMs in long threads.
