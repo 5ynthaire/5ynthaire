@@ -47,22 +47,18 @@
 - **[Tangram Decision Making Model](https://github.com/5ynthaire/5YN-TangramDecisionMakingModel-Idea)**: Model pinpoints shift from productive decisions to meandering hypotheticals.
 
 ## Human-AI Relations
+
 *Pioneering human-AI relations through praxis*
 - **[Vexley Versioning System](https://github.com/5ynthaire/5YN-TangramDecisionMakingModel-Idea)**: Model pinpoints shift from productive decisions to meandering hypotheticals.
 - **[AI Degradation Test Suite](https://github.com/5ynthaire/5YN-AIDegradationTestSuite)**: Experimental attempt at baseline testing failing LLMs in long threads.
 
 ## Narrative Frameworks
+
 *For rhetorical shenanigans with LLM and IRL*
 - **[Performative Complexity Killer](https://github.com/5ynthaire/5YN-PerformativeComplexity-Killer)**: Rhetorical tookit for exposing and refuting claims that 'nuance' excuses evading models, stats, or core insights.
 
-## LLM Clarity and Drift Control
-*Simple LLM tricks*
-- **[Text Ingestion Prompt](https://github.com/5ynthaire/5YN-TextIngestion-Prompt)**: Isolates text to block LLM drift, keeping focus razor-tight.
-- **[Live Webpage Precision Prompt](https://github.com/5ynthaire/5YN-LiveWebpageScanPrecision-Prompt)**: Forces retrieval of unaltered text from URLs with verification, countering RAG fuzziness.
-- **[Simple One Sentence Answer Prompt](https://github.com/5ynthaire/5YN-OneSentence-Prompt)**: Triggers one-sentence LLM replies with a magic word.
-
-
 ## Digital Art & Design
+
 *Tools and resources to unleash your creativity*
 
 <p align="center"><b>5YNTHAIRE DIGITAL ART GALLERY</b><br /><a href="https://5ynthaire.github.io/5YN-DigitalDesignPortfolio/">Free Admission →</a></p>
@@ -82,7 +78,15 @@
 - **[AI Extension Icons](https://github.com/5ynthaire/ai-extension-icons)**: PNG icons; Original, Retro-AI, and Mono in 16/19/24/32/38/48/64/128.
 - **[Grok Imagine Accessibility Extension](https://github.com/5ynthaire/grok-imagine-keybind-accessibility-extension)**: Binds keys to common actions on platform for accessibility.
 
+## LLM Clarity and Drift Control
+
+*Simple LLM tricks*
+- **[Text Ingestion Prompt](https://github.com/5ynthaire/5YN-TextIngestion-Prompt)**: Isolates text to block LLM drift, keeping focus razor-tight.
+- **[Live Webpage Precision Prompt](https://github.com/5ynthaire/5YN-LiveWebpageScanPrecision-Prompt)**: Forces retrieval of unaltered text from URLs with verification, countering RAG fuzziness.
+- **[Simple One Sentence Answer Prompt](https://github.com/5ynthaire/5YN-OneSentence-Prompt)**: Triggers one-sentence LLM replies with a magic word.
+
 ## Miscellaneous
+
 *Odds and ends*
 - **[Wave File to CUE/Labels Splitter](https://github.com/5ynthaire/5YN-WAV2CUE-PY)**: Py for converting audio timestamps to tool-friendly formats.
 - **[Unicode Emoji Dumper](https://github.com/5ynthaire/5YN-UnicodeEmojiDumper-PY)**: Py for dumping Unicode UTF-8 blocks to text for emoji testing and palette use.
