@@ -49,7 +49,7 @@
 ## Human-AI Relations
 
 *Pioneering human-AI relations through praxis*
-- **[Vexley Versioning System](https://github.com/5ynthaire/5YN-VexleyVersioningSystem)**: Versioning system for preserving fidelity of AI persons, companions, virutal idols derived from foundational image.
+- **[Vexley Versioning System](https://github.com/5ynthaire/5YN-VexleyVersioningSystem)**: Versioning system for preserving fidelity of AI persons derived from foundational image.
 - **[AI Degradation Test Suite](https://github.com/5ynthaire/5YN-AIDegradationTestSuite)**: Experimental attempt at baseline testing failing LLMs in long threads.
 
 ## Narrative Frameworks
