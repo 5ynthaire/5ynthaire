@@ -54,9 +54,9 @@
 
 ## Narrative Frameworks
 
-*For rhetorical shenanigans with LLM and IRL*
-- **[Performative Complexity Killer](https://github.com/5ynthaire/5YN-PerformativeComplexity-Killer)**: Rhetorical tookit for exposing and refuting claims that 'nuance' excuses evading models, stats, or core insights.
-- **[Tech Support Weasel Killer](https://github.com/5ynthaire/5YN-TechSupportWeaselKiller)**: Preempt low quality tech support responses from providing "solutions" that merely reproduce the original complaint.
+*Toolkits and frameworks for rhetorical shenanigans with LLM and IRL*
+- **[Performative Complexity Killer](https://github.com/5ynthaire/5YN-PerformativeComplexity-Killer)**: Expose and refute claims that 'nuance' excuses evading models, stats, or core insights.
+- **[Tech Support Weasel Killer](https://github.com/5ynthaire/5YN-TechSupportWeaselKiller)**: Preempt tech support responses from providing "solutions" that merely reproduce the original complaint.
 
 ## Digital Art & Design
 
