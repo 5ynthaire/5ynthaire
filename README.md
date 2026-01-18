@@ -91,3 +91,4 @@
 *Odds and ends*
 - **[Wave File to CUE/Labels Splitter](https://github.com/5ynthaire/5YN-WAV2CUE-PY)**: Py for converting audio timestamps to tool-friendly formats.
 - **[Unicode Emoji Dumper](https://github.com/5ynthaire/5YN-UnicodeEmojiDumper-PY)**: Py for dumping Unicode UTF-8 blocks to text for emoji testing and palette use.
+- **[JFIF Batch Converter](https://github.com/5ynthaire/5YN-JFIF-BatchConverter-PY)**: Convert AI-generated images from .jfif files to .jpg and rename them for organization.
