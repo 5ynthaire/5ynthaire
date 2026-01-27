@@ -87,6 +87,7 @@
 - **[Text Ingestion Prompt](https://github.com/5ynthaire/5YN-TextIngestion-Prompt)**: Isolates text to block LLM drift, keeping focus razor-tight.
 - **[Live Webpage Precision Prompt](https://github.com/5ynthaire/5YN-LiveWebpageScanPrecision-Prompt)**: Forces retrieval of unaltered text from URLs with verification, countering RAG fuzziness.
 - **[Simple One Sentence Answer Prompt](https://github.com/5ynthaire/5YN-OneSentence-Prompt)**: Triggers one-sentence LLM replies with a magic word.
+- **[Scare Quote Suppressant Prompt](https://github.com/5ynthaire/5YN-ScareQuoteSuppressant-Prompt)**: Suppresses excessive use of scare quotes in LLM responses.
 
 ## Miscellaneous
 
