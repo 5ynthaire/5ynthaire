@@ -46,7 +46,8 @@
 - **[Neural Heuristic Quantification](https://github.com/5ynthaire/5YN-NeuralHeuristicQuantification-Idea)**: Quantifies abstract concepts via LLM neural nets, opening new AI frontiers.
 - **[Tangram Decision Making Model](https://github.com/5ynthaire/5YN-TangramDecisionMakingModel-Idea)**: Model pinpoints shift from productive decisions to meandering hypotheticals.
 - **[Miyako Prose](https://github.com/5ynthaire/5YN-MiyakoProse)**: English prose exemplifying Japanese aesthetics and cultural values.
-- **[Abstraction Distillation Framework](https://github.com/5ynthaire/5YN-AbstractionDistillationFramework)**:  For precision language and LLM prompt refinement- **[4 Layer Model](https://github.com/5ynthaire/5YN-4LayerModelUniversalCreativityFramework)**:  Universal creativity framework.
+- **[Abstraction Distillation Framework](https://github.com/5ynthaire/5YN-AbstractionDistillationFramework)**:  For precision language and LLM prompt refinement
+- **[4 Layer Model](https://github.com/5ynthaire/5YN-4LayerModelUniversalCreativityFramework)**:  Universal creativity framework.
 
 ## Human-AI Relations
 
