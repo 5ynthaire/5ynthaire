@@ -16,8 +16,8 @@
 - **[FlowMode](https://github.com/5ynthaire/5YN-PMTaskMode-LLM-Enhancement)**: Harnesses project management-inspired listening modes to lock LLMs into precise, workflow-driven responses.
 - **[Tangram Decision Driver](https://github.com/5ynthaire/5YN-TangramDecisionDriver-LLM-Enhancement)**: Steers LLMs to actionable decisions, dodging endless hypothetical follow-ups.
 - **[Simplification Prompt](https://github.com/5ynthaire/5YN-IterationHellBreaker-LLM-Enhancement)**: Breaks LLM iteration hell, forcing reassessment when progress stalls.
-- **[LLM Humility Enforcer Prompt](https://github.com/5ynthaire/5YN-LLMHumilityEnforcer-Prompt)**: Prevent entrenched feedback cycles caused by LLM's premature closure, self-certification, and performative confidence.
-- **[Mode B: Advisory-Only LLM Interaction](https://github.com/5ynthaire/5YN-AdvisoryOnlyLLMInteraction-Mode)**: Calibrate LLM responses for high-agency users, prioritizing rigorous analysis and executive control.
+- **[LLM Humility Enforcer Prompt](https://github.com/5ynthaire/5YN-LLMHumilityEnforcer-Prompt)**: Prevent LLMs from premature closure, self-certification, and performative confidence.
+- **[Mode B: Advisory-Only LLM Interaction](https://github.com/5ynthaire/5YN-AdvisoryOnlyLLMInteraction-Mode)**: Calibrate LLM responses for rigorous analysis and executive control over cheap sycophancy.
 - **[Contextual Fidelity Framework](https://github.com/5ynthaire/5YN-ContextualFidelityFramework-Prompt)**: Scaffolding prevents contextual bleed between active discussion and meta object being discussed.
 
 ## LLM Skill Recognition
@@ -46,7 +46,7 @@
 - **[Neural Heuristic Quantification](https://github.com/5ynthaire/5YN-NeuralHeuristicQuantification-Idea)**: Quantifies abstract concepts via LLM neural nets, opening new AI frontiers.
 - **[Tangram Decision Making Model](https://github.com/5ynthaire/5YN-TangramDecisionMakingModel-Idea)**: Model pinpoints shift from productive decisions to meandering hypotheticals.
 - **[Miyako Prose](https://github.com/5ynthaire/5YN-MiyakoProse)**: English prose exemplifying Japanese aesthetics and cultural values.
-- **[Abstraction Distillation Framework](https://github.com/5ynthaire/5YN-AbstractionDistillationFramework)**:  For precision language and LLM prompt refinement.
+- **[Abstraction Distillation Framework](https://github.com/5ynthaire/5YN-AbstractionDistillationFramework)**:  For precision language and LLM prompt refinement- **[4 Layer Model](https://github.com/5ynthaire/5YN-4LayerModelUniversalCreativityFramework)**:  Universal creativity framework.
 
 ## Human-AI Relations
 
