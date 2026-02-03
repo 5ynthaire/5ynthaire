@@ -47,7 +47,7 @@
 - **[Tangram Decision Making Model](https://github.com/5ynthaire/5YN-TangramDecisionMakingModel-Idea)**: Model pinpoints shift from productive decisions to meandering hypotheticals.
 - **[Miyako Prose](https://github.com/5ynthaire/5YN-MiyakoProse)**: English prose exemplifying Japanese aesthetics and cultural values.
 - **[Abstraction Distillation Framework](https://github.com/5ynthaire/5YN-AbstractionDistillationFramework)**:  For precision language and LLM prompt refinement
-- **[4 Layer Model](https://github.com/5ynthaire/5YN-4LayerModelUniversalCreativityFramework)**:  Universal creativity framework.
+- **[4 Layer Model](https://github.com/5ynthaire/5YN-4LayerModelUniversalCreativityFramework)**:  Universal creativity framework. Applied to all creative domains, AI estimates ~15% clarity gain.
 
 ## Human-AI Relations
 
