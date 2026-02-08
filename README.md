@@ -17,7 +17,7 @@
 - **[Tangram Decision Driver](https://github.com/5ynthaire/5YN-TangramDecisionDriver-LLM-Enhancement)**: Steers LLMs to actionable decisions, dodging endless hypothetical follow-ups.
 - **[Simplification Prompt](https://github.com/5ynthaire/5YN-IterationHellBreaker-LLM-Enhancement)**: Breaks LLM iteration hell, forcing reassessment when progress stalls.
 - **[LLM Humility Enforcer Prompt](https://github.com/5ynthaire/5YN-LLMHumilityEnforcer-Prompt)**: Prevent LLMs from premature closure, self-certification, and performative confidence.
-- **[Mode B: Advisory-Only LLM Interaction](https://github.com/5ynthaire/5YN-AdvisoryOnlyLLMInteraction-Mode)**: Calibrate LLM responses for rigorous analysis and executive control over cheap sycophancy.
+- **[Mode B: Advisory-Only LLM Interaction](https://github.com/5ynthaire/5YN-AdvisoryOnlyLLMInteraction-Mode)**: Force LLMs into rigorous analysis and executive control over cheap sycophancy.
 - **[Contextual Fidelity Framework](https://github.com/5ynthaire/5YN-ContextualFidelityFramework-Prompt)**: Scaffolding prevents contextual bleed between active discussion and meta object being discussed.
 - **[HTML Table Consideration Prompt](https://github.com/5ynthaire/5YN-HTMLTableConsideration-Prompt)**: Forces LLMs to consider using tables for alignment.
 
