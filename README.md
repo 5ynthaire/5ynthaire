@@ -20,6 +20,7 @@
 - **[Mode B: Advisory-Only LLM Interaction](https://github.com/5ynthaire/5YN-AdvisoryOnlyLLMInteraction-Mode)**: Force LLMs into rigorous analysis and executive control over cheap sycophancy.
 - **[Contextual Fidelity Framework](https://github.com/5ynthaire/5YN-ContextualFidelityFramework-Prompt)**: Scaffolding prevents contextual bleed between active discussion and meta object being discussed.
 - **[HTML Table Consideration Prompt](https://github.com/5ynthaire/5YN-HTMLTableConsideration-Prompt)**: Forces LLMs to consider using tables for alignment.
+- **[Scare Quote Suppressant Prompt](https://github.com/5ynthaire/5YN-ScareQuoteSuppressant-Prompt)**: Suppresses excessive use of scare quotes in LLM responses.
 
 ## LLM Skill Recognition
 
@@ -55,6 +56,7 @@
 *Pioneering human-AI relations through praxis*
 - **[Vexley Versioning System](https://github.com/5ynthaire/5YN-VexleyVersioningSystem)**: Versioning system for preserving fidelity of AI persons derived from foundational image.
 - **[AI Degradation Test Suite](https://github.com/5ynthaire/5YN-AIDegradationTestSuite)**: Experimental attempt at baseline testing failing LLMs in long threads.
+- **[Simple Grid Syntaxes](https://github.com/5ynthaire/5YN-SimpleGridSyntaxForLLM)**: Lightweight syntax for conveying grid structure to LLM.
 
 ## Narrative Frameworks
 
@@ -90,7 +92,6 @@
 - **[Text Ingestion Prompt](https://github.com/5ynthaire/5YN-TextIngestion-Prompt)**: Isolates text to block LLM drift, keeping focus razor-tight.
 - **[Live Webpage Precision Prompt](https://github.com/5ynthaire/5YN-LiveWebpageScanPrecision-Prompt)**: Forces retrieval of unaltered text from URLs with verification, countering RAG fuzziness.
 - **[Simple One Sentence Answer Prompt](https://github.com/5ynthaire/5YN-OneSentence-Prompt)**: Triggers one-sentence LLM replies with a magic word.
-- **[Scare Quote Suppressant Prompt](https://github.com/5ynthaire/5YN-ScareQuoteSuppressant-Prompt)**: Suppresses excessive use of scare quotes in LLM responses.
 
 ## Miscellaneous
 
