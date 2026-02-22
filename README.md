@@ -13,7 +13,7 @@
 *End-user LLM hacks to improve reasoning and meta-level conversation cognition, while we wait for industry to catch up*
 - **[Abstract Reasoning Prompt](https://github.com/5ynthaire/5YN-AbstractReasoning-LLM-Enhancement)**: Forces LLMs to wrestle paradoxes, spitting out sharp, creative insights.
 - **[Framework for AI Hallucination Control](https://github.com/5ynthaire/5YN-InformationKernelLLMHallucinationControl-Idea)**: Framework & Prompt-level hack to counter AI hallucinations.
-- **[Tangram Decision Driver](https://github.com/5ynthaire/5YN-TangramDecisionDriver-LLM-Enhancement)**: Steers LLMs to actionable decisions, dodging endless hypothetical follow-ups.
+- **[Tangram Decision Making Model](https://github.com/5ynthaire/5YN-TangramDecisionMakingModel-Idea)**: Model pinpoints shift from productive decisions to meandering hypotheticals.
 - **[Mode B: Advisory-Only LLM Interaction](https://github.com/5ynthaire/5YN-AdvisoryOnlyLLMInteraction-Mode)**: Force LLMs into rigorous analysis and executive control over cheap sycophancy.
 - **[Contextual Fidelity Framework](https://github.com/5ynthaire/5YN-ContextualFidelityFramework-Prompt)**: Scaffolding prevents contextual bleed between active discussion and meta object being discussed.
 
@@ -37,13 +37,9 @@
 
 ## Visionary Innovations
 
-*Showcasing transcendent Human-AI synergy*
-- **[Edge-Driven Communication Dynamics](https://github.com/5ynthaire/5YN-EdgeDrivenCommunicationDynamics-Idea)**: Rewires LLM clarity via linguistic edge cases.
 - **[Canvas-Lattice Engine](https://github.com/5ynthaire/5YN-LLMAbstractReasoningLayer-Idea)**: LLM design sparks omnidirectional insights for deeper thinking.
-- **[Neural Heuristic Quantification](https://github.com/5ynthaire/5YN-NeuralHeuristicQuantification-Idea)**: Quantifies abstract concepts via LLM neural nets, opening new AI frontiers.
-- **[Tangram Decision Making Model](https://github.com/5ynthaire/5YN-TangramDecisionMakingModel-Idea)**: Model pinpoints shift from productive decisions to meandering hypotheticals.
 - **[Miyako Prose](https://github.com/5ynthaire/5YN-MiyakoProse)**: English prose exemplifying Japanese aesthetics and cultural values.
-- **[4 Layer Model](https://github.com/5ynthaire/5YN-4LayerModelUniversalCreativityFramework)**:  Universal creativity framework. Applies to all creative domains, AI estimates ~15% clarity gain.
+- **[4 Layer Model](https://github.com/5ynthaire/5YN-4LayerModelUniversalCreativityFramework)**: Universal creativity framework. Applies to all creative domains, AI estimates ~15% clarity gain.
 
 ## Communication Clarity Frameworks and Syntax
 
@@ -62,7 +58,7 @@
 
 *Toolkits and frameworks for rhetorical shenanigans with LLM and IRL*
 - **[Performative Complexity Killer](https://github.com/5ynthaire/5YN-PerformativeComplexity-Killer)**: Expose and refute claims that 'nuance' excuses evading models, stats, or core insights.
-- **[Tech Support Weasel Killer](https://github.com/5ynthaire/5YN-TechSupportWeaselKiller)**: Preempt tech support responses from providing "solutions" that merely reproduce the original complaint.
+- **[Tech Support Weasel Killer](https://github.com/5ynthaire/5YN-TechSupportWeaselKiller)**: Preempt tech support from providing "solutions" that merely reproduce the original complaint.
 
 ## Digital Art & Design
 
