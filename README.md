@@ -37,9 +37,9 @@
 
 ## Visionary Innovations
 
-- **[Canvas-Lattice Engine](https://github.com/5ynthaire/5YN-LLMAbstractReasoningLayer-Idea)**: LLM design sparks omnidirectional insights for deeper thinking.
-- **[Miyako Prose](https://github.com/5ynthaire/5YN-MiyakoProse)**: English prose exemplifying Japanese aesthetics and cultural values.
 - **[4 Layer Model](https://github.com/5ynthaire/5YN-4LayerModelUniversalCreativityFramework)**: Universal creativity framework. Applies to all creative domains, AI estimates ~15% clarity gain.
+- **[Miyako Prose](https://github.com/5ynthaire/5YN-MiyakoProse)**: English prose exemplifying Japanese aesthetics and cultural values.
+- **[Canvas-Lattice Engine](https://github.com/5ynthaire/5YN-LLMAbstractReasoningLayer-Idea)**: LLM design sparks omnidirectional insights for deeper thinking.
 
 ## Communication Clarity Frameworks and Syntax
 
