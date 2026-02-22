@@ -13,14 +13,9 @@
 *End-user LLM hacks to improve reasoning and meta-level conversation cognition, while we wait for industry to catch up*
 - **[Abstract Reasoning Prompt](https://github.com/5ynthaire/5YN-AbstractReasoning-LLM-Enhancement)**: Forces LLMs to wrestle paradoxes, spitting out sharp, creative insights.
 - **[Framework for AI Hallucination Control](https://github.com/5ynthaire/5YN-InformationKernelLLMHallucinationControl-Idea)**: Framework & Prompt-level hack to counter AI hallucinations.
-<!-- - **[FlowMode](https://github.com/5ynthaire/5YN-PMTaskMode-LLM-Enhancement)**: Harnesses project management-inspired listening modes to lock LLMs into precise, workflow-driven responses.-->
 - **[Tangram Decision Driver](https://github.com/5ynthaire/5YN-TangramDecisionDriver-LLM-Enhancement)**: Steers LLMs to actionable decisions, dodging endless hypothetical follow-ups.
-<!-- - **[Simplification Prompt](https://github.com/5ynthaire/5YN-IterationHellBreaker-LLM-Enhancement)**: Breaks LLM iteration hell, forcing reassessment when progress stalls.
-- **[LLM Humility Enforcer Prompt](https://github.com/5ynthaire/5YN-LLMHumilityEnforcer-Prompt)**: Prevent LLMs from premature closure, self-certification, and performative confidence. -->
 - **[Mode B: Advisory-Only LLM Interaction](https://github.com/5ynthaire/5YN-AdvisoryOnlyLLMInteraction-Mode)**: Force LLMs into rigorous analysis and executive control over cheap sycophancy.
 - **[Contextual Fidelity Framework](https://github.com/5ynthaire/5YN-ContextualFidelityFramework-Prompt)**: Scaffolding prevents contextual bleed between active discussion and meta object being discussed.
-<!-- - **[HTML Table Consideration Prompt](https://github.com/5ynthaire/5YN-HTMLTableConsideration-Prompt)**: Forces LLMs to consider using tables for alignment. -->
-- **[Scare Quote Suppressant Prompt](https://github.com/5ynthaire/5YN-ScareQuoteSuppressant-Prompt)**: Suppresses excessive use of scare quotes in LLM responses.
 
 ## LLM Skill Recognition
 
@@ -40,7 +35,7 @@
 <p align="center"><i>Post-processing solution for AI hallucination control</i></p>
 </p>
 
-## AI-Driven Innovations
+## Visionary Innovations
 
 *Showcasing transcendent Human-AI synergy*
 - **[Edge-Driven Communication Dynamics](https://github.com/5ynthaire/5YN-EdgeDrivenCommunicationDynamics-Idea)**: Rewires LLM clarity via linguistic edge cases.
@@ -48,15 +43,20 @@
 - **[Neural Heuristic Quantification](https://github.com/5ynthaire/5YN-NeuralHeuristicQuantification-Idea)**: Quantifies abstract concepts via LLM neural nets, opening new AI frontiers.
 - **[Tangram Decision Making Model](https://github.com/5ynthaire/5YN-TangramDecisionMakingModel-Idea)**: Model pinpoints shift from productive decisions to meandering hypotheticals.
 - **[Miyako Prose](https://github.com/5ynthaire/5YN-MiyakoProse)**: English prose exemplifying Japanese aesthetics and cultural values.
-- **[Abstraction Distillation Framework](https://github.com/5ynthaire/5YN-AbstractionDistillationFramework)**:  For precision language and LLM prompt refinement
 - **[4 Layer Model](https://github.com/5ynthaire/5YN-4LayerModelUniversalCreativityFramework)**:  Universal creativity framework. Applies to all creative domains, AI estimates ~15% clarity gain.
+
+## Communication Clarity Frameworks and Syntax
+
+- **[Abstraction Distillation Framework](https://github.com/5ynthaire/5YN-AbstractionDistillationFramework)**: For precision language and LLM prompt refinement
+- **[Simple Grid Syntaxes](https://github.com/5ynthaire/5YN-SimpleGridSyntaxForLLM)**: Lightweight syntax for conveying grid structure to LLM.
+- **[LLM Humility Enforcer Prompt](https://github.com/5ynthaire/5YN-LLMHumilityEnforcer-Prompt)**: Prevent LLMs from premature closure, self-certification, and performative confidence.
+- **[Scare Quote Suppressant Prompt](https://github.com/5ynthaire/5YN-ScareQuoteSuppressant-Prompt)**: Suppresses excessive use of scare quotes in LLM responses.
 
 ## Human-AI Relations
 
 *Pioneering human-AI relations through praxis*
 - **[Vexley Versioning System](https://github.com/5ynthaire/5YN-VexleyVersioningSystem)**: Versioning system for preserving fidelity of AI persons derived from foundational image.
 - **[AI Degradation Test Suite](https://github.com/5ynthaire/5YN-AIDegradationTestSuite)**: Experimental attempt at baseline testing failing LLMs in long threads.
-- **[Simple Grid Syntaxes](https://github.com/5ynthaire/5YN-SimpleGridSyntaxForLLM)**: Lightweight syntax for conveying grid structure to LLM.
 
 ## Narrative Frameworks
 
