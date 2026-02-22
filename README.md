@@ -54,12 +54,6 @@
 - **[Vexley Versioning System](https://github.com/5ynthaire/5YN-VexleyVersioningSystem)**: Versioning system for preserving fidelity of AI persons derived from foundational image.
 - **[AI Degradation Test Suite](https://github.com/5ynthaire/5YN-AIDegradationTestSuite)**: Experimental attempt at baseline testing failing LLMs in long threads.
 
-## Narrative Frameworks
-
-*Toolkits and frameworks for rhetorical shenanigans with LLM and IRL*
-- **[Performative Complexity Killer](https://github.com/5ynthaire/5YN-PerformativeComplexity-Killer)**: Expose and refute claims that 'nuance' excuses evading models, stats, or core insights.
-- **[Tech Support Weasel Killer](https://github.com/5ynthaire/5YN-TechSupportWeaselKiller)**: Preempt tech support from providing "solutions" that merely reproduce the original complaint.
-
 ## Digital Art & Design
 
 *Tools and resources to unleash your creativity*
@@ -82,12 +76,11 @@
 - **[Grok Imagine Accessibility Extension](https://github.com/5ynthaire/grok-imagine-keybind-accessibility-extension)**: Binds keys to common actions on platform for accessibility.
 - **[5YN Comic Strip Creator](https://5ynthaire.github.io/5YN-ComicStripMaker-HTML/)**: Simple webtool for creating comic strips from PNG panels.
 
-## LLM Clarity and Drift Control
+## Narrative Frameworks
 
-*Simple LLM tricks*
-- **[Text Ingestion Prompt](https://github.com/5ynthaire/5YN-TextIngestion-Prompt)**: Isolates text to block LLM drift, keeping focus razor-tight.
-- **[Live Webpage Precision Prompt](https://github.com/5ynthaire/5YN-LiveWebpageScanPrecision-Prompt)**: Forces retrieval of unaltered text from URLs with verification, countering RAG fuzziness.
-- **[Simple One Sentence Answer Prompt](https://github.com/5ynthaire/5YN-OneSentence-Prompt)**: Triggers one-sentence LLM replies with a magic word.
+*Toolkits and frameworks for rhetorical shenanigans with LLM and IRL*
+- **[Performative Complexity Killer](https://github.com/5ynthaire/5YN-PerformativeComplexity-Killer)**: Expose and refute claims that 'nuance' excuses evading models, stats, or core insights.
+- **[Tech Support Weasel Killer](https://github.com/5ynthaire/5YN-TechSupportWeaselKiller)**: Preempt tech support from providing "solutions" that merely reproduce the original complaint.
 
 ## Miscellaneous
 
