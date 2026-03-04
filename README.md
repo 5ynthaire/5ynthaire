@@ -40,7 +40,7 @@
 - **[4 Layer Model](https://github.com/5ynthaire/5YN-4LayerModelUniversalCreativityFramework)**: Universal creativity framework. Applies to all creative domains, AI estimates ~15% clarity gain.
 - **[Miyako Prose](https://github.com/5ynthaire/5YN-MiyakoProse)**: English prose exemplifying Japanese aesthetics and cultural values.
 - **[Canvas-Lattice Engine](https://github.com/5ynthaire/5YN-LLMAbstractReasoningLayer-Idea)**: LLM design sparks omnidirectional insights for deeper thinking.
-
+- **[Late Cold War Futurist](https://github.com/5ynthaire/LateColdWarFuturist)**: Framework identifies cross-domain aesthetic unique to late 20th century with structured understanding of mechanism.
 ## Communication Clarity Frameworks and Syntax
 
 - **[Abstraction Distillation Framework](https://github.com/5ynthaire/5YN-AbstractionDistillationFramework)**: For precision language and LLM prompt refinement
