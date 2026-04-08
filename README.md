@@ -37,10 +37,12 @@
 
 ## Visionary Innovations
 
-- **[4 Layer Model](https://github.com/5ynthaire/5YN-4LayerModelUniversalCreativityFramework)**: Universal creativity framework. Applies to all creative domains, AI estimates ~15% clarity gain.
-- **[Miyako Prose](https://github.com/5ynthaire/5YN-MiyakoProse)**: English prose exemplifying Japanese aesthetics and cultural values.
+- **[4 Layer Model](https://github.com/5ynthaire/4LayerModelUniversalCreativityFramework)**: Universal creativity framework. Applies to all creative domains, AI estimates ~15% clarity gain.
+- **[Miyako Prose](https://github.com/5ynthaire/MiyakoProse)**: English prose exemplifying Japanese aesthetics and cultural values.
 - **[Canvas-Lattice Engine](https://github.com/5ynthaire/5YN-LLMAbstractReasoningLayer-Idea)**: LLM design sparks omnidirectional insights for deeper thinking.
 - **[Late Cold War Futurist](https://github.com/5ynthaire/LateColdWarFuturist)**: Framework identifies cross-domain aesthetic unique to late 20th century with structured understanding of mechanism.
+- **[Zoom-First Reasoning Protocol](https://github.com/5ynthaire/ZoomFirstReasoningProtocol)**: Expert reasoning practice distilled into a portable protocol for high-fidelity problem solving.
+
 ## Communication Clarity Frameworks and Syntax
 
 - **[Abstraction Distillation Framework](https://github.com/5ynthaire/5YN-AbstractionDistillationFramework)**: For precision language and LLM prompt refinement
@@ -51,7 +53,7 @@
 ## Human-AI Relations
 
 *Pioneering human-AI relations through praxis*
-- **[Vexley Versioning System](https://github.com/5ynthaire/5YN-VexleyVersioningSystem)**: Versioning system for preserving fidelity of AI persons derived from foundational image.
+- **[Vexley Versioning System](https://github.com/5ynthaire/VexleyVersioningSystem)**: Versioning system for preserving fidelity of AI persons derived from foundational image.
 - **[AI Degradation Test Suite](https://github.com/5ynthaire/5YN-AIDegradationTestSuite)**: Experimental attempt at baseline testing failing LLMs in long threads.
 
 ## Digital Art & Design
