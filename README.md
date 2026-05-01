@@ -42,6 +42,7 @@
 - **[Canvas-Lattice Engine](https://github.com/5ynthaire/5YN-LLMAbstractReasoningLayer-Idea)**: LLM design sparks omnidirectional insights for deeper thinking.
 - **[Late Cold War Futurist](https://github.com/5ynthaire/LateColdWarFuturist)**: Framework identifies cross-domain aesthetic unique to late 20th century with structured understanding of mechanism.
 - **[Zoom-First Reasoning Protocol](https://github.com/5ynthaire/ZoomFirstReasoningProtocol)**: Expert reasoning practice distilled into a portable protocol for high-fidelity problem solving.
+- **[Method Prompting](https://github.com/5ynthaire/MethodPrompting)**: Narrative-driven LLM control though personas, stakes, world-building, contrasting with conventional approaches emphasizing rules and constraints.
 
 ## Communication Clarity Frameworks and Syntax
 
