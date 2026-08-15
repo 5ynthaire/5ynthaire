@@ -47,6 +47,7 @@
 ## Communication Clarity Frameworks and Syntax
 
 - **[Abstraction Distillation Framework](https://github.com/5ynthaire/5YN-AbstractionDistillationFramework)**: For precision language and LLM prompt refinement
+- **[Synchronic Writing Directive](https://github.com/5ynthaire/5YN-Synchronic-Writing-Directive-LLM-Skill)**: Prevents AI artifacts from becoming narrated journeys of their creation.
 - **[Simple Grid Syntaxes](https://github.com/5ynthaire/5YN-SimpleGridSyntaxForLLM)**: Lightweight syntax for conveying grid structure to LLM.
 - **[LLM Humility Enforcer Prompt](https://github.com/5ynthaire/5YN-LLMHumilityEnforcer-Prompt)**: Prevent LLMs from premature closure, self-certification, and performative confidence.
 - **[Scare Quote Suppressant Prompt](https://github.com/5ynthaire/5YN-ScareQuoteSuppressant-Prompt)**: Suppresses excessive use of scare quotes in LLM responses.
